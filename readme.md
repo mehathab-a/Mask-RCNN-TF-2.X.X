@@ -20,7 +20,7 @@ Ubuntu 20.04
 <hr>
 
 ### Training and Predicting Model:
-1. Initialize a virtual env with python=3.8 version
+1. Initialize a virtual env with python = 3.8
 2. Install all packages in the requirements.txt
 
 ```
@@ -36,6 +36,8 @@ pip install -r requirements.txt
 
 <b>Changes to be made in the path for the root and other directories within the notebook files </b>
 
+
+corn_training.ipynb file can be customized for custom datasets.
 <hr>
 
 for understanding code : https://www.youtube.com/watch?v=QntADriNHuk
